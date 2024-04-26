@@ -1,0 +1,13 @@
+REST - API
+
+GET /user - HTML render
+GET /api/users- List all users
+
+
+
+GET /api/users/1 - Get the user with ID 1
+
+GET /api/users/2 - Get the user with ID 2
+
+PATCH - Edit the user with ID 1
+DELETE - Delete the user with ID 1

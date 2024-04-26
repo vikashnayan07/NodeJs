@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2",
+    "nanoid": "^5.0.7",
+    "nodemon": "^3.1.0",
+    "shortid": "^2.2.16",
+    "url": "^0.11.3",
+    "uuid": "^9.0.1"
+  }
+}
